@@ -6,8 +6,8 @@
 
 # محتويات الموقع
 
-## المجموعات
+## Groups
 ![alt text](images/groups.png)
 
-## المباريات
+## Matches
 ![alt text](images/matches.png)
