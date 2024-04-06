@@ -1,0 +1,76 @@
+/* start global */
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi:wght@400..700&display=swap');
+*{
+    font-family: "Reem Kufi", sans-serif;
+}
+.bg-primary{
+    color: white;
+    background-color: #811538 !important;
+}
+.bg-secondary{
+    color: white;
+    background-color: #5b0d25 !important;
+}
+/* end global */
+/* start header */
+.logo{
+    position: absolute;
+    top: 60px;
+    left: 100px;
+    z-index: 2;
+}
+.logo img{
+    height: 300px;
+    filter: drop-shadow(5px 5px 30px #222);
+}
+header{
+    height: 20rem;
+    direction: rtl;
+    background-image: url(images/pattern.png);
+    border-bottom: 20px solid #5b0d25;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 75%);
+}
+header h2, header h1{
+    font-size: 80px;
+    font-weight: 700;
+    margin-right: 100px;
+}
+header h2{
+    font-size: 50px;
+    margin-right: 75px;
+}
+.title{
+    margin-top: 30px;
+}
+.title img{
+    width: 400px;
+}
+/* end header */
+/* start content */
+.container{
+    margin-top: 50px;
+}
+.flag img{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.list-group h5{
+    margin: auto 5px;
+}
+.matches .card{
+    overflow: hidden;
+}
+.matches .card h5{
+    margin: 0;
+}
+.matches .card .col-sm-3:first-child{
+    border-right: 5px solid #5b0d25;
+}
+.matches .card .col-sm-3:last-child{
+    border-left: 5px solid #5b0d25;
+}
+.matches .card .col-sm-4{
+    margin: auto 0;
+}
+/* end content */
