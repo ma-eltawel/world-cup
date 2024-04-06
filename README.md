@@ -1,4 +1,4 @@
-# *Qatar World Cup 2022*
+ *Qatar World Cup 2022*
 ![alt text](./readme/header.png)
 
 **هذا المشروع يحتوي على الأكواد الكاملة لبناء موقع كأس العالم من خلال استخدام:
