@@ -1,5 +1,5 @@
- *Qatar World Cup 2022*
-![alt text](./readme/header.png)
+# *Qatar World Cup 2022*
+![alt text](./imagesheader.png)
 
 **هذا المشروع يحتوي على الأكواد الكاملة لبناء موقع كأس العالم من خلال استخدام:
 html - css - javascript - bootstrap
@@ -16,7 +16,7 @@ html - css - javascript - bootstrap
 # محتويات الموقع
 
 ## المجموعات
-![alt text](./readme/groups-1.png)
+![alt text](images/groups.png)
 
 ![alt text](./readme/groups-2.png)
 
