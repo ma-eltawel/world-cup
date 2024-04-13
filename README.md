@@ -7,10 +7,10 @@
 
 ## محتويات الموقع
 
-### Groups
+## Groups
 
 ![alt text](images/groups.png)
 
-### Matches
+## Matches
 
 ![alt text](images/matches.png)
