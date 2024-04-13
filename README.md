@@ -4,7 +4,7 @@
 **This project contains the complete codes to create a world cup website using html - css - bootstrap - javascript**
 
 
-# محتويات الموقع
+## محتويات الموقع
 
 ## Groups
 ![alt text](images/groups.png)
